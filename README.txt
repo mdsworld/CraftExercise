@@ -16,13 +16,5 @@ Open a terminal/commandPromp to run CLI commands-
 Now to run API. Please use below URL - 
 	http:<hostname>:8080/api/orders
 
-Please BasicAuth from Postman or your tool and provide below credentials based on user type - 
-For Customer user-
-	Username - User
-	Password - password
-
-For Admin user-
-	Username - Admin
-	Password - password
-
-For more details please see Interface_Specification.doc
+For more details on usage please see Documents/Interface_Specification.doc
+Also Documents/DemoApplication.json.postman_collection is collection of sample requests for each API call.
