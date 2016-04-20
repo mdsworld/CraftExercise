@@ -161,7 +161,7 @@
 		},
 		{
 			"id": "c091f2eb-599b-4ac7-d2ad-51b6a4a66f54",
-			"headers": "",
+			"headers": "Authorization: Basic VXNlcjpwYXNzd29yZA==\n",
 			"url": "http://localhost:8080/api/pizzastore/orders",
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -172,7 +172,7 @@
 			"tests": null,
 			"currentHelper": "normal",
 			"helperAttributes": {},
-			"time": 1461102622906,
+			"time": 1461129352801,
 			"name": "Demo-GetCataloge",
 			"description": "",
 			"collectionId": "a8320755-92cc-ddac-704a-b8c834d4ddee",
