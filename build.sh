@@ -1,3 +1,3 @@
 #!/bin/sh
-cd $TRAVIS_BUILD_DIR/exercise
+cd exercise
 mvn clean package
